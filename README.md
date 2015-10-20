@@ -2,6 +2,9 @@
 
 Adguard is the first full-functional web filter and ad blocker for Mac platform. It removes ads from both browsers and applications on your Mac equally well. Simple and intuitive design makes access to any option, such as phishing protection module or filtering log quick and easy; although you don't have to fine-tune anything, it will immediately start to filter all your traffic right after installation.
 
+![mac_main](https://cloud.githubusercontent.com/assets/8577533/10606690/4e3e8886-773d-11e5-8a13-567a948d0178.png)
+![mac_1](https://cloud.githubusercontent.com/assets/8577533/10606740/8f3c04bc-773d-11e5-8a99-215d80185d32.png)
+
 ### How to get Adguard for Mac?  
 Adguard for Mac can be downloaded from official website:
 http://adguard.com
