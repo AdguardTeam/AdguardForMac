@@ -18,6 +18,11 @@ To see the 'big picture', watch current progress and get an idea of approximate 
 
 If you want to see what's in our nearest plans, or would like to submit a new bug/feature request, you can do it here: https://github.com/AdguardTeam/AdguardForMac/issues
 
+### Forum
+
+Discuss Adguard for Mac on our forum:
+http://forum.adguard.com/forumdisplay.php?92
+
 ### Releases
 
 Latest stable version: 1.1.0
