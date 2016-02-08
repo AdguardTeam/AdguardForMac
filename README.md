@@ -1,6 +1,6 @@
 # Adguard for Mac
 
-> **Disclaimer** Adguard for Mac is not an open source. We use github as an open bug tracker for users to see what are developers working on.
+> **Disclaimer** Adguard for Mac is not an open source. We use github as an open bug tracker for users to see what developers are working on.
 
 Adguard is the first full-functional web filter and ad blocker for Mac platform. It removes ads from both browsers and applications on your Mac equally well. Simple and intuitive design makes access to any option, such as phishing protection module or filtering log quick and easy; although you don't have to fine-tune anything, it will immediately start to filter all your traffic right after installation.
 
