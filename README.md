@@ -28,7 +28,7 @@ http://forum.adguard.com/forumdisplay.php?92
 ### Releases
 
 Latest stable version: 1.3.0 <br/>
-Latest beta version: 1.3.0
+Latest beta version: 1.3.1
 
 Download latest stable version: https://static.adguard.com/mac/Adguard.release.dmg <br/>
 Download latest beta version: https://static.adguard.com/mac/Adguard.beta.dmg
