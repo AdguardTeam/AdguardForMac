@@ -25,14 +25,10 @@
 </details>
 
 
-### Adguard log files
-<!--- Send us a diagnostic report through the application, click on the gear icon in the app's main window, and choose "Support"-->
-
 ### Customer ID 
-<!--- You will get an autoreply with you Customer ID after sending a report -->
+<!--- Send us a diagnostic report through the application, click on the gear icon in the app's main window, and choose "Support". You will get an auto-reply with you Customer ID after sending a report -->
 
 ### Your environment
 <!--- Please include all relevant details about the environment you experienced the bug in -->
-* Adguard version:
 * Environment name and version: (e.g. Chrome 59):
-* Operating system and version: (e.g. macOS Sierra 0.12.5 (16F73))
+* Any specific potentially conflicting software installed: (e.g. antiviruses, firewalls, traffic counters, cleaners)
