@@ -1,41 +1,32 @@
-# Adguard for Mac
+# AdGuard for Mac
+> ### Disclaimer
+> * AdGuard for Mac is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on.
+> * Privacy policy: https://adguard.com/privacy/mac.html (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
 
-> **Disclaimer** Adguard for Mac is not an open source project. We use github as an open bug tracker for users to see what developers are working on.
+AdGuard for Mac is the world’s first standalone ad blocker designed specifically with macOS in mind. It offers much more than any browser extension ever could: blocks all kinds of ads in all browsers and even in other apps, protecting your privacy along the way.
 
-Adguard is the first full-functional web filter and ad blocker for Mac platform. It removes ads from both browsers and applications on your Mac equally well. Simple and intuitive design makes access to any option, such as phishing protection module or filtering log quick and easy; although you don't have to fine-tune anything, it will immediately start to filter all your traffic right after installation.
+To get more information and to download AdGuard for Mac, visit our website [https://adguard.com/](https://adguard.com/adguard-mac/overview.html).
 
 ![mac_main](https://cloud.githubusercontent.com/assets/8577533/10606690/4e3e8886-773d-11e5-8a13-567a948d0178.png)
 ![mac_1](https://cloud.githubusercontent.com/assets/8577533/10606740/8f3c04bc-773d-11e5-8a99-215d80185d32.png)
 
-### How to get Adguard for Mac?  
-Adguard for Mac can be downloaded from official website:
-http://adguard.com
+### How to report an issue?
 
-Or directly by this link: 
-https://static.adguard.com/mac/Adguard.release.dmg
+GitHub can be used to report a bug or to submit a feature request. To do so, go to [this page](https://github.com/AdguardTeam/AdguardForMac/issues) and click the *New issue* button.
 
-### How to become a beta tester?
-
-All information related to Adguard beta-testing is collected in this [blog article](https://blog.adguard.com/en/adguard-beta-test/). 
+>**Note:** for the filter-related issues (missed ads, false positives etc.) use the [dedicated repository](https://github.com/AdguardTeam/AdguardFilters). 
 
 ### Our plans
 
-To see the 'big picture', watch current progress and get an idea of approximate dates for Mac releases, see this page: https://github.com/AdguardTeam/AdguardForMac/milestones
-
-If you want to see what's in our nearest plans, or would like to submit a new bug/feature request, you can do it here: https://github.com/AdguardTeam/AdguardForMac/issues
-
-### Forum
-
-Discuss Adguard for Mac on our forum:
-http://forum.adguard.com/forumdisplay.php?92
+To see the 'big picture', to watch current progress and to get an idea of approximate dates for upcoming AdGuard for Mac releases, see this page: https://github.com/AdguardTeam/AdguardForMac/milestones
 
 ### Releases
 
-Latest stable version: 1.5.0 <br/>
-Latest beta version: same as the release
+ * Latest release version: [1.5.0](https://github.com/AdguardTeam/AdguardForMac/releases/tag/v1.5.0.402)
+ * Latest beta: currently same as release version
 
-Download latest stable version: https://static.adguard.com/mac/Adguard.release.dmg <br/>
-Download latest beta version: https://static.adguard.com/mac/Adguard.beta.dmg
+You can find all AdGuard for Mac releases here: https://github.com/AdguardTeam/AdguardForMac/releases
 
-Adguard versions: https://github.com/AdguardTeam/AdguardForMac/releases
+### How to become a beta tester?
 
+You can submit an application to participate in AdGuard for Mac beta-testing program. All necessary information on this topic can be found in our [Knowledgebase article](https://kb.adguard.com/general/adguard-beta-testing-program#macos). 
