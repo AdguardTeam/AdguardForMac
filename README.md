@@ -7,8 +7,7 @@ AdGuard for Mac is the world’s first standalone ad blocker designed specifical
 
 To get more information and to download AdGuard for Mac, visit our website [https://adguard.com/](https://adguard.com/adguard-mac/overview.html).
 
-![mac_main](https://cloud.githubusercontent.com/assets/8577533/10606690/4e3e8886-773d-11e5-8a13-567a948d0178.png)
-![mac_1](https://cloud.githubusercontent.com/assets/8577533/10606740/8f3c04bc-773d-11e5-8a99-215d80185d32.png)
+<img src="https://user-images.githubusercontent.com/17472907/38512981-8651a892-3c35-11e8-9451-123abf207d00.png" height="391"><img src="https://user-images.githubusercontent.com/17472907/38512980-862fc344-3c35-11e8-8361-af82813d5636.png" width="525">
 
 ### How to report an issue?
 
