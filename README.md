@@ -21,8 +21,8 @@ To see the 'big picture', to watch current progress and to get an idea of approx
 
 ### Releases
 
- * Latest release version: [1.5.6](https://github.com/AdguardTeam/AdguardForMac/releases/tag/v1.5.6) 
- * Latest beta: [1.5.7](https://github.com/AdguardTeam/AdguardForMac/releases/tag/v1.5.7.454-beta)
+ * Latest release version: [1.5.8](https://github.com/AdguardTeam/AdguardForMac/releases/tag/v1.5.8) 
+ * Latest beta: same as release
 
 You can find all AdGuard for Mac releases here: https://github.com/AdguardTeam/AdguardForMac/releases
 
