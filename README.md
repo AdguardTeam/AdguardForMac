@@ -28,4 +28,4 @@ You can find all AdGuard for Mac releases here: https://github.com/AdguardTeam/A
 
 ### How to become a beta tester?
 
-You can submit an application to participate in AdGuard for Mac beta-testing program. All necessary information on this topic can be found in our [Knowledgebase article](https://kb.adguard.com/general/adguard-beta-testing-program#macos). 
+You can submit an application to participate in AdGuard for Mac beta testing program. All necessary information on this topic can be found on the [dedicated page](https://adguard.com/beta.html).
