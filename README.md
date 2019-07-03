@@ -32,7 +32,6 @@
 
 ### Disclaimer
 
-> Disclaimer
 > AdGuard for Mac is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
 > Privacy policy: https://adguard.com/privacy/mac.html (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
 
