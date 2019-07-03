@@ -4,11 +4,11 @@
   </p>
 <h3 align="center">Ad blocker with advanced privacy protection features</h3>
 <p align="center">
-    AdGuard is the only standalone ad blocker app for Mac that can block ads equally well in all browsers and apps,</br> not only in Safari. It will also protect your data from tracking and shield your privacy.
+    All-round protection from all kinds of online ads, tracking and malvertising.
 </p>
   
   <p align="center"> 
-    <a href="https://adguard.com/">Adguard.com</a> |
+    <a href="https://adguard.com/">Official website</a> |
     <a href="https://reddit.com/r/Adguard">Reddit</a> |
     <a href="https://twitter.com/AdGuard">Twitter</a> |
     <a href="https://t.me/adguard_en">Telegram</a>
@@ -37,7 +37,7 @@
 > Privacy policy: https://adguard.com/privacy/mac.html (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
 
 
-AdGuard is a unique tool that blocks ads in apps and browsers even without ROOT privileges, protects your privacy, and helps you manage your apps. AdGuard gives you options of running it either VPN or HTTP proxy mode and allows to set up custom DNS settings (with DNSCrypt support).
+AdGuard is the only standalone ad blocker app for Mac that can block ads equally well in all browsers and apps, not only in Safari. It will also protect your data from tracking and shield your privacy.
 
 To get more information and to download AdGuard for Mac, visit our website [https://adguard.com/](https://adguard.com/adguard-mac/overview.html).
 
