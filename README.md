@@ -18,8 +18,8 @@
     <a href="https://github.com/AdguardTeam/AdguardForMac/releases/tag/v2.0.6">
         <img src="https://img.shields.io/badge/release-v2.0.6-blue.svg" alt="Latest release" />
     </a>
-    <a href="https://github.com/AdguardTeam/AdguardForMac/releases/tag/v2.0.5-beta">
-    <img src="https://img.shields.io/badge/beta-v2.0.5-yellow.svg" alt="Beta version>" />
+    <a href="https://github.com/AdguardTeam/AdguardForMac/releases/tag/v2.1.0-beta">
+    <img src="https://img.shields.io/badge/beta-v2.1.0-yellow.svg" alt="Beta version>" />
     </a>
 
 
