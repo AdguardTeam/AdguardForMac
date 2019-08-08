@@ -15,11 +15,11 @@
     <br /><br />
     <a
     </a>
-    <a href="https://github.com/AdguardTeam/AdguardForMac/releases/tag/v2.0.6">
-        <img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardforMac.svg?label=release" />
+    <a href="https://github.com/AdguardTeam/AdGuardForMac/releases/">
+        <img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardforMac.svg?label=release" alt="Latest release" />
     </a>
-    <a href="https://github.com/AdguardTeam/AdguardForMac/releases/tag/v2.1.0-beta">
-    <img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardforMac.svg?label=beta&color=GREEN" alt="Beta version>" />
+    <a href="https://github.com/AdguardTeam/AdGuardForMac/releases/">
+    <img src="https://img.shields.io/github/tag-pre/AdguardTeam/AdGuardforMac.svg?label=beta&color=GREEN" alt="Beta version>" />
     </a>
 
 
