@@ -69,4 +69,4 @@ You can submit an application to participate in AdGuard for Mac beta-testing pro
 <a id="our-plans"></a>
 ## Our plans
 
-To see the 'big picture', to watch current progress and to get an idea of approximate dates for upcoming AdGuard for Mac releases, see this page: https://github.com/AdguardTeam/AdGuardforMac/milestones
+To see the "big picture", to watch current progress and to get an idea of approximate dates for upcoming AdGuard for Mac releases, see this page: https://github.com/AdguardTeam/AdGuardforMac/milestones
