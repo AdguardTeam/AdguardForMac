@@ -38,7 +38,7 @@ AdGuard is the only standalone ad blocker app for Mac that can block ads equally
 
 To get more information and to download AdGuard for Mac, visit our website [https://adguard.com/](https://adguard.com/adguard-mac/overview.html).
 
-<img src="https://cdn.adguard.com/public/Adguard/screenshots/adguardmacmainEN.png" height="391"><img src="https://cdn.adguard.com/public/Adguard/screenshots/adguardmacfiltersEN.png" width="525">
+<img src="https://user-images.githubusercontent.com/17472907/83167680-182bcf00-a119-11ea-847d-b2e414d64084.png" height="391"><img src="https://user-images.githubusercontent.com/17472907/83167707-1feb7380-a119-11ea-9936-2f04dd31fb23.png" width="525">
 
 <a id="contribution"></a>
 ## Contribution
