@@ -6,8 +6,8 @@
 <p align="center">
     All-round protection from all kinds of online ads, tracking and malvertising.
 </p>
-  
-  <p align="center"> 
+
+  <p align="center">
     <a href="https://adguard.com/">Website</a> |
     <a href="https://reddit.com/r/Adguard">Reddit</a> |
     <a href="https://twitter.com/AdGuard">Twitter</a> |
@@ -48,7 +48,7 @@ To get more information and to download AdGuard for Mac, visit our website [http
 
 GitHub can be used to report a bug or to submit a feature request. To do so, go to [this page](https://github.com/AdguardTeam/AdguardForMac/issues) and click the *New issue* button.
 
->**Note:** for the filter-related issues (missed ads, false positives etc.) use our [reporting tool](https://reports.adguard.com/new_issue.html).
+>**Note:** for the filter-related issues (missed ads, false positives etc.) use our [reporting tool](https://kb.adguard.com/technical-support/reporting-tool#mac).
 
 <a id="contribution-translating"></a>
 ### Translating AdGuard
