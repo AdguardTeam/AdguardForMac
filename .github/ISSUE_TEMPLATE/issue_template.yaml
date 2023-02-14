@@ -13,7 +13,7 @@ body:
     attributes:
       label: AdGuard version
       description: What version of our application are you running?
-      placeholder: For example, 2.10
+      placeholder: For example, 2.9.2 release
     validations:
       required: true
   - type: input
@@ -23,13 +23,13 @@ body:
       description: What browser do you use?
       placeholder: For example, Safari 16.3 (18614.4.6.1.5)
     validations:
-      required: true
+      required: false
   - type: input
     id: os_version
     attributes:
       label: OS version
       description: What operating system do you use?
-      placeholder: For example, macOS Version 13.2 (22D49)
+      placeholder: For example, macOS Monterey 12.4
     validations:
       required: true
   - type: dropdown
@@ -160,8 +160,13 @@ body:
     id: what-happened
     attributes:
       label: Issue Details
-      description: What happened?
-      placeholder: Please describe the steps to reproduce the issue you've experienced.
+      description: Please provide a set of steps to reproduce the issue.
+      placeholder:
+      value: |
+        Steps to reproduce:
+        1.
+        2.
+        3.
     validations:
       required: true
   - type: textarea
@@ -173,11 +178,28 @@ body:
     validations:
       required: false
   - type: textarea
+    id: result
+    attributes:
+      label: Actual Behavior
+      description:
+      placeholder: A clear description of what happened.
+    validations:
+      required: true
+  - type: textarea
     id: screens
     attributes:
       label: Screenshots
-      description:
+      description: |
+        If applicable add screenshots explaining your problem.
+        You can drag and drop images or paste them from clipboard.
+        Use `<details> </details>` tag to hide screenshots under the spoiler.
       placeholder: If applicable add screenshots explaining your problem.
+      value: |
+          <details><summary>Screenshot 1:</summary>
+
+          <!-- paste screenshot here -->
+
+          </details>
     validations:
       required: false
   - type: textarea
