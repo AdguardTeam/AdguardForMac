@@ -8,5 +8,5 @@
     'url': 'https://link.adtidy.org/forward.html?action=report&app=home&from=github'
   - 'about': >
         Please check AdGuard Knowledgebase for more useful information about our products
-    'name': 'Wiki'
+    'name': 'Knowledgebase'
     'url': 'https://github.com/AdguardTeam/AdGuardHome/wiki'
