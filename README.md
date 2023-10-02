@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://cdn.adguard.com/public/Adguard/Common/Logos/mac.svg" width="300px" alt="AdGuard for Mac"
- />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/public/Adguard/Common/Logos/mac_dark.svg" width="300px" alt="AdGuard for Mac" />
+    <img src="https://cdn.adguard.com/public/Adguard/Common/Logos/mac.svg" width="300px" alt="AdGuard for Mac"/>
+</picture>
   </p>
 <h3 align="center">The most advanced system-wide content blocker for Mac</h3>
 <p align="center">
@@ -38,7 +40,14 @@ AdGuard is the only standalone ad blocker app for Mac that can block ads equally
 
 To get more information and to download AdGuard for Mac, visit our website [https://adguard.com/](https://adguard.com/adguard-mac/overview.html).
 
-<img src="https://user-images.githubusercontent.com/17472907/83167680-182bcf00-a119-11ea-847d-b2e414d64084.png" height="391"><img src="https://user-images.githubusercontent.com/17472907/83167707-1feb7380-a119-11ea-9936-2f04dd31fb23.png" width="525">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/content/release_notes/ad_blocker/mac/v2.12/m_main_dark_en.png" height="391"/>
+  <img src="https://cdn.adguard.com/content/release_notes/ad_blocker/mac/v2.12/m_main_light_en.png" height="391">
+   </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/content/release_notes/ad_blocker/mac/v2.12/m_filters_dark_en.png" width="525"/>
+<img src="https://cdn.adguard.com/content/release_notes/ad_blocker/mac/v2.12/m_filters_light_en.png" width="525">
+   </picture>
 
 <a id="contribution"></a>
 ## Contribution
