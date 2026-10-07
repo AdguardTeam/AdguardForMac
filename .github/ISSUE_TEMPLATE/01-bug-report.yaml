@@ -108,7 +108,7 @@ body:
         - Web Annoyances Ultralist
         - EasyList Cookie List
         - Dandelion Sprout's Annoyances List
-        - Steveo's AI Blocklist
+        - Stevo's AI Blocklist
     validations:
       required: false
 
